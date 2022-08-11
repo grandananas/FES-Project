@@ -1,2 +1,2 @@
 # FES-Project
-Economic research using ML methods
+Economic research based on ML methods
